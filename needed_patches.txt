@@ -1,6 +1,0 @@
-https://github.com/Hima-Dev/android_kernel_htc_msm8994/commit/605b40b38a32d60d9b244a3312a8314e435b8e1f
-https://github.com/ivanich/android_kernel_htc_pyramid/commit/58d0e3bdaba38b30e89b0f4ef9be439b5de9a30c
-https://github.com/ivanich/android_kernel_htc_pyramid/commit/0f9fc8a25aafdf8a87427e8cb0d5fa2131c0ba50
-https://github.com/ivanich/android_kernel_htc_pyramid/commit/aec20f9051f785a82d76e9e06a22a6ba525bdc52
-https://github.com/ivanich/android_kernel_htc_pyramid/commit/40349673fd514bf4ef65ebbb0b2e0139227754ec
-https://github.com/ivanich/android_kernel_htc_pyramid/commit/c65fff10ad5cb45368a43e853a14aa41ca7a318d

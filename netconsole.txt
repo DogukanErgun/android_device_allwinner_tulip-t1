@@ -1,1 +1,0 @@
-netconsole=@192.168.1.15/,@192.168.1.7/  console=tty1 consoleblank=0
